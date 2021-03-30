@@ -1,12 +1,12 @@
 {
   "response": [
     {
-     "datetime": 1915714436,
-     "filename": "PalladiumOS-v1.0-phoenix-20210202-OFFICIAL-Vanilla.zip",
-     "id": "2e993d726f85c47356ab10887553cf31202238ed377427d1a4c2c278411cd1f7",
+     "datetime": 1617044248,
+     "filename": "PalladiumOS-v1.1-phoenix-20210329-OFFICIAL-GAPPS.zip",
+     "id": "60994ce3e4c81e163270e660a976b916ff15d8069772d5e627b6c2305b016d26",
      "romtype": "OFFICIAL",
-     "size": 1108635449,
-     "url": "https://sourceforge.net/projects/palladium-os/files/phoenix/PalladiumOS-v1.0-phoenix-20210202-OFFICIAL-Vanilla.zip/download",
+     "size": 1636217792,
+     "url": "https://download.palladiumos.me/?dir=phoenix/PalladiumOS-v1.1-phoenix-20210329-OFFICIAL-GAPPS.zip",
      "version": "11"
     }
   ]

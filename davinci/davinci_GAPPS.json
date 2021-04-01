@@ -1,12 +1,12 @@
 {
   "response": [
     {
-     "datetime": 1617001572,
-     "filename": "PalladiumOS-v1.1-davinci-20210329-OFFICIAL-GAPPS",
-     "id": "60f4a2b2af59e950d3fb95f363d679484e3e79e13a5fc9c8a0abb711ab4b0a40",
+     "datetime": 1617269851,
+     "filename": "PalladiumOS-v1.1-davinci-20210401-OFFICIAL-GAPPS",
+     "id": "11ef5125fedf2ebb8cd4123d2e3565adeb6dff153193246ba4581aa283a6d770",
      "romtype": "OFFICIAL",
-     "size": 1807349059,
-     "url": "https://download.palladiumos.me/?dir=davinci/PalladiumOS-v1.1-davinci-20210329-OFFICIAL-GAPPS.zip",
+     "size": 1808386856,
+     "url": "https://download.palladiumos.me/?dir=davinci/PalladiumOS-v1.1-davinci-20210401-OFFICIAL-GAPPS.zip",
      "version": "11"
     }
   ]

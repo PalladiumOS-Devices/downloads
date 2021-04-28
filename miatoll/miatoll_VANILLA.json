@@ -1,13 +1,14 @@
 {
   "response": [
     {
-     "datetime": 1616952853,
-     "filename": "PalladiumOS-v1.1-miatoll-20210328-OFFICIAL-VANILLA.zip",
-     "id": "fbd8eabb030dba453ccd56c43a113d665c16fc168070d9edb1013d3d6c45f503",
+     "datetime": 1619597185,
+     "filename": "PalladiumOS-v1.2-miatoll-20210428-OFFICIAL-VANILLA.zip",
+     "id": "383a71fededd211a86d44c432b709cdbbb020c2ab372d28a3d145166205d4129",
      "romtype": "OFFICIAL",
-     "size": 1283704566,
-     "url": "https://download.palladiumos.me/?dir=miatoll/PalladiumOS-v1.1-miatoll-20210328-OFFICIAL-VANILLA.zip",
+     "size": 1401280426,
+     "url": "https://download.palladiumos.me/miatoll/PalladiumOS-v1.2-miatoll-20210428-OFFICIAL-VANILLA.zip",
      "version": "11"
     }
   ]
 }
+

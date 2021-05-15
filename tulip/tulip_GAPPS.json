@@ -1,14 +1,13 @@
 {
   "response": [
     {
-     "datetime": 1619738848,
-     "filename": "PalladiumOS-v1.2-tulip-20210430-OFFICIAL-GAPPS.zip",
-     "id": "aaacf6226ad57a757024d845b0603eb0bcb5424c262afe19107fa92cefe3cc65",
+     "datetime": 1621030268,
+     "filename": "PalladiumOS-v1.3-tulip-20210515-OFFICIAL-GAPPS.zip",
+     "id": "eebf1b0125a56c51b838a112a95ac2ae622674034dde15dc3c3e28e3f16908a9",
      "romtype": "OFFICIAL",
-     "size": 1351603959,
-     "url": "https://download.palladiumos.me/tulip/PalladiumOS-v1.2-tulip-20210430-OFFICIAL-GAPPS.zip",
+     "size": 1269910871,
+     "url": "https://download.palladiumos.me/tulip/PalladiumOS-v1.3-tulip-20210515-OFFICIAL-GAPPS.zip",
      "version": "11"
     }
   ]
 }
-

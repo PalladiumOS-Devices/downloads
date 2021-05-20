@@ -1,12 +1,12 @@
 {
   "response": [
     {
-     "datetime": 1619622172,
-     "filename": "PalladiumOS-v1.2-davinci-20210428-OFFICIAL-VANILLA.zip",
-     "id": "2f0fc4806fa2ae7d6e833ad8884cebc0160900bbfa7408eeaa619293dea73ecf",
+     "datetime": 1621439436,
+     "filename": "PalladiumOS-v1.3-davinci-20210519-OFFICIAL-VANILLA.zip",
+     "id": "29ab6314d40f8f48488075a36609fdcd33dcc236f4dadcdc6e15b6c34a52ff2f",
      "romtype": "OFFICIAL",
-     "size": 1402771414,
-     "url": "https://download.palladiumos.me/davinci/PalladiumOS-v1.2-davinci-20210428-OFFICIAL-VANILLA.zip",
+     "size": 1310104187,
+     "url": "https://download.palladiumos.me/davinci/PalladiumOS-v1.3-davinci-20210519-OFFICIAL-VANILLA.zip",
      "version": "11"
     }
   ]

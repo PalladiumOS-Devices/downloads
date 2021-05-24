@@ -1,12 +1,12 @@
 {
   "response": [
     {
-     "datetime": 1619809013,
-     "filename": "PalladiumOS-v1.2-whyred-20210501-OFFICIAL-VANILLA.zip",
-     "id": "ba11e9ac9038f99fd825853c35d9466ab66f214ed1530d6753bc0d814baaac23",
+     "datetime": 1621863910,
+     "filename": "PalladiumOS-v1.3-whyred-20210524-OFFICIAL-VANILLA.zip",
+     "id": "3104c82e548db72717f2d5789cf9d41a03e273e43560d42bf9f3102637112111",
      "romtype": "OFFICIAL",
-     "size": 847998061,
-     "url": "https://download.palladiumos.me/whyred/PalladiumOS-v1.2-whyred-20210501-OFFICIAL-VANILLA.zip",
+     "size": 837389158,
+     "url": "https://download.palladiumos.me/whyred/PalladiumOS-v1.3-whyred-20210524-OFFICIAL-VANILLA.zip",
      "version": "11"
     }
   ]
